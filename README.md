@@ -35,7 +35,7 @@ Data scientists can iterate on ML code and file pull requests (PRs). This will t
 <video width="320" height="240" controls>
   <source src="workflow-examples/mlops_stacks_01_ml_dev.mov" type="video/mp4">
 </video>
-![develop ML pipeline](workflow-examples/mlops_stacks_01_ml_dev.mov)
+[workflow-examples/mlops_stacks_01_ml_dev.mov](https://github.com/yinxi-db/mlops-stack/blob/update_video_render/workflow-examples/mlops_stacks_01_ml_dev.mov)
 
 ### ML devloop - create a PR and CI
 
