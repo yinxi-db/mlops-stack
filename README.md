@@ -32,9 +32,9 @@ Data scientists can iterate on ML code and file pull requests (PRs). This will t
 ### ML devloop - develop ML pipelines
 
 
-<div align="center">
-    <img src="workflow-examples/mlops_stacks_01_ml_dev.mov">
-</div>
+<video width="320" height="240" controls>
+  <source src="workflow-examples/mlops_stacks_01_ml_dev.mov" type="video/mp4">
+</video>
 
 
 ### ML devloop - create a PR and CI
